@@ -1,0 +1,17 @@
+node_modules
+.env
+.secret
+.vscode/
+sftp.json
+
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
+deployments.zip
+contracts-exposed
